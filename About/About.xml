@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Planetside Gun Retexture</name>
+	<packageId>brucethemoose.moreplanetsideguns</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<author>brucethemoose</author>
+	<url>https://github.com/brucethemoose/Rimworld-Planetside-Guns-Retexture</url>
+	<loadAfter>
+		<li>zal.PlanetSidePew</li>
+		<li>vanillaexpanded.vtexvariations</li>
+	</loadAfter>
+	<description>Way too many Planetside gun textures.</description>
+</ModMetaData>
